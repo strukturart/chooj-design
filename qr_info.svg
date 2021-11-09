@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240"
+   height="380"
+   viewBox="0 0 63.499999 100.54167"
+   version="1.1"
+   id="svg124"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="qr_info.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview126"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.2483847"
+     inkscape:cx="73.163636"
+     inkscape:cy="106.52092"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     height="380px" />
+  <defs
+     id="defs121">
+    <color-profile
+       name="Artifex-CMYK-SWOP-Profile"
+       xlink:href="file:///snap/inkscape/9256/usr/share/color/icc/ghostscript/default_cmyk.icc"
+       id="color-profile22174" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#e7e7e7;fill-opacity:1;stroke:none;stroke-width:0.0707198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect48843"
+       width="63.5"
+       height="100.54166"
+       x="-0.24910492"
+       y="0.094775863"
+       ry="0"
+       rx="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:6.61458px;font-family:Ani;-inkscape-font-specification:'Ani, Normal';letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.317627"
+       y="30.684452"
+       id="text2401"><tspan
+         sodipodi:role="line"
+         id="tspan2399"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.264583px"
+         x="25.317627"
+         y="30.684452">Matrix Server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:6.61458px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.490255"
+       y="28.549866"
+       id="text17455"><tspan
+         sodipodi:role="line"
+         id="tspan17453"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583px"
+         x="10.490255"
+         y="28.549866" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:3.666px;font-family:Ani;-inkscape-font-specification:'Ani, Normal';letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.090008"
+       y="10.03682"
+       id="text18977-1"><tspan
+         sodipodi:role="line"
+         id="tspan18975-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:arial;-inkscape-font-specification:arial;fill:#484848;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="10.090008"
+         y="10.03682">Please create a QR code in the following format</tspan></text>
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect5619"
+       width="63.5"
+       height="7.4083333"
+       x="-8.8817842e-15"
+       y="93.133331" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.9747685"
+       y="98.023163"
+       id="text7471"><tspan
+         sodipodi:role="line"
+         id="tspan7469"
+         style="font-size:2.82222px;fill:#ffffff;stroke-width:0.264583"
+         x="1.9747685"
+         y="98.023163">Start scan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.996769"
+       y="98.313171"
+       id="text7471-3"><tspan
+         sodipodi:role="line"
+         id="tspan7469-6"
+         style="font-size:2.82222px;fill:#ffffff;stroke-width:0.264583"
+         x="50.996769"
+         y="98.313171">Chancel</tspan></text>
+  </g>
+</svg>
